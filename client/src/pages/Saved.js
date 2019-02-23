@@ -78,8 +78,7 @@ class Saved extends Component {
             </Container>
 
         );
-
     }
-
-
 }
+
+export default Saved; 
