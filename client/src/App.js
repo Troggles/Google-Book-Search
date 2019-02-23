@@ -15,10 +15,7 @@ function App() {
                     <Route exact path="/saved" component={Saved} />
                     <Route component={NoMatch} />
                 </Switch>
-
             </div>
-
-
         </Router>
     );
 }
